@@ -55,3 +55,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "actionview-svelte-handler", "~> 0.5.7"
