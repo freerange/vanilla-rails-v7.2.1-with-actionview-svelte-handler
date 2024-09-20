@@ -1,3 +1,11 @@
+GIT
+  remote: https://codeberg.org/reesericci/actionview-svelte-handler.git
+  revision: 6c5e8c30649482a77d6e846cd1d64e0d4facefdb
+  specs:
+    actionview-svelte-handler (0.5.7)
+      rails (~> 7.0)
+      zeitwerk (~> 2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -45,8 +53,6 @@ GEM
       erubi (~> 1.11)
       rails-dom-testing (~> 2.2)
       rails-html-sanitizer (~> 1.6)
-    actionview-svelte-handler (0.5.7)
-      rails (~> 7.0)
     activejob (7.2.1)
       activesupport (= 7.2.1)
       globalid (>= 0.3.6)
@@ -283,7 +289,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  actionview-svelte-handler (~> 0.5.7)
+  actionview-svelte-handler!
   bootsnap
   brakeman
   capybara

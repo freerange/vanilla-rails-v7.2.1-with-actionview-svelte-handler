@@ -56,4 +56,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "actionview-svelte-handler", "~> 0.5.7"
+gem "actionview-svelte-handler", git: "https://codeberg.org/reesericci/actionview-svelte-handler.git"
