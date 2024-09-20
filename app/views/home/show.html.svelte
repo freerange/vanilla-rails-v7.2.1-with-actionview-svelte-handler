@@ -3,3 +3,9 @@
 </script>
 
 <p>{$props.name}: {text}</p>
+
+<style>
+  p {
+    color: red;
+  }
+</style>
