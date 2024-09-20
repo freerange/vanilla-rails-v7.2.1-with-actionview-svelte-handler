@@ -1,4 +1,6 @@
 <script>
+  import AnotherComponent from "./AnotherComponent.html.svelte";
+
   let count = 0;
 
   const increment = () => {
@@ -9,3 +11,5 @@
 <p>{count}</p>
 
 <button on:click|preventDefault={increment}>Increment</button>
+
+<AnotherComponent></AnotherComponent>

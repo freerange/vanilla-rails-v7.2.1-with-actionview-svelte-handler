@@ -1,0 +1,1 @@
+<p>AnotherComponent</p>
