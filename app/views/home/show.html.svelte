@@ -2,4 +2,4 @@
   let text = "my-text"
 </script>
 
-<p>show.html.svelte: {text}</p>
+<p>{$props.name}: {text}</p>

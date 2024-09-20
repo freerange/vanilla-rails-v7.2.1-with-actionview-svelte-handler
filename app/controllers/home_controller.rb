@@ -1,3 +1,5 @@
 class HomeController < ApplicationController
-  def show; end
+  def show
+    Svelte.props[:name] = "James"
+  end
 end
