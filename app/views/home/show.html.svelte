@@ -1,5 +1,5 @@
 <script>
-  import MyComponent from "./MyComponent.html.svelte";
+  import MyComponent from "$views/home/MyComponent.html.svelte";
 
   let text = "my-text"
 </script>
