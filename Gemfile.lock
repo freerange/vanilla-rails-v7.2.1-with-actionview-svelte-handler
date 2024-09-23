@@ -1,6 +1,6 @@
 GIT
   remote: https://codeberg.org/reesericci/actionview-svelte-handler.git
-  revision: 6c5e8c30649482a77d6e846cd1d64e0d4facefdb
+  revision: 6ec25236a44a8f8f01f730c2e132f3b55cf53d89
   specs:
     actionview-svelte-handler (0.5.7)
       rails (~> 7.0)
