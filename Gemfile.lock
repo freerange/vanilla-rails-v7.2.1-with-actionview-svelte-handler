@@ -1,8 +1,8 @@
 GIT
   remote: https://codeberg.org/reesericci/actionview-svelte-handler.git
-  revision: 6c5e8c30649482a77d6e846cd1d64e0d4facefdb
+  revision: b314c1aca84d0b718f1794b2eafa49ccfefc6fda
   specs:
-    actionview-svelte-handler (0.5.7)
+    actionview-svelte-handler (0.7.0)
       rails (~> 7.0)
       zeitwerk (~> 2)
 
@@ -117,7 +117,7 @@ GEM
       activesupport (>= 6.0.0)
       railties (>= 6.0.0)
     io-console (0.7.2)
-    irb (1.14.0)
+    irb (1.14.1)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
     jbuilder (2.13.0)
@@ -274,7 +274,7 @@ GEM
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
       railties (>= 6.0.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
     websocket (1.2.11)
     websocket-driver (0.7.6)
       websocket-extensions (>= 0.1.0)
